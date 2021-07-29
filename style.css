@@ -1,0 +1,45 @@
+
+
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+
+
+/* global style */
+
+body{
+    font-family: 'Poppins', sans-serif !important; 
+}
+
+
+/* hero section style */
+
+.my-hero-bg{
+    background-color: #264653;
+}
+.para-color{
+    color: #E0E0E0 !important;
+}
+
+/* Fetured Bikes section style */
+
+.my-bike-color{
+    color: #E76F51;
+}
+.bike-grayscale{
+    filter: grayscale(100%);
+}
+
+/* client review section style */
+
+.client-faq-color{
+    color: #E76F51;
+}
+.rating-color{
+    color: #E77C40;
+}
+
+/* best collection section style */
+
+.carousel-bg{
+    background-color: #383535;
+}
